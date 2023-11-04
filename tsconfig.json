@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "module": "es6",
+      "moduleResolution": "node",
+      "target": "es5",
+      "lib": ["dom", "es6"],
+      "sourceMap": true,
+      "esModuleInterop": true
+    },
+    "include": [
+      "src/**/*.ts"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
