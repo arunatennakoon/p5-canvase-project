@@ -1,8 +1,8 @@
-## npm install p5
-## npm install @types/p5 --save-dev
+# About this template
 
+This is a template for a sketch using the p5.js library in conjunction with Microsoft Typescript.
 
-## npx webpack --mode development
-## npm install webpack-dev-server --save-dev
+## References
 
-
+[p5.js library](https://p5js.org/)
+[Typescript](https://www.typescriptlang.org/)
